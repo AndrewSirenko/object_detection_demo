@@ -1,0 +1,39 @@
+<annotation>
+    <folder>batch5</folder>
+    <filename>image_494.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>C pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>5</ymin>
+            <xmax>132</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>U pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>31</xmin>
+            <ymin>70</ymin>
+            <xmax>170</xmax>
+            <ymax>161</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>U pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>148</ymin>
+            <xmax>176</xmax>
+            <ymax>257</ymax>
+        </bndbox>
+    </object>
+</annotation>

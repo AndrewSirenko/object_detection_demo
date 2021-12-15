@@ -1,0 +1,39 @@
+<annotation>
+    <folder>batch4</folder>
+    <filename>image_339.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>L pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>39</ymin>
+            <xmax>82</xmax>
+            <ymax>106</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>i pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>74</xmin>
+            <ymin>77</ymin>
+            <xmax>130</xmax>
+            <ymax>128</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Seat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46</xmin>
+            <ymin>174</ymin>
+            <xmax>131</xmax>
+            <ymax>266</ymax>
+        </bndbox>
+    </object>
+</annotation>

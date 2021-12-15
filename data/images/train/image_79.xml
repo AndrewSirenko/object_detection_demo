@@ -1,0 +1,29 @@
+<annotation>
+    <folder>batch1</folder>
+    <filename>image_79.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>26</xmin>
+            <ymin>192</ymin>
+            <xmax>122</xmax>
+            <ymax>252</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Seat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>72</ymin>
+            <xmax>142</xmax>
+            <ymax>172</ymax>
+        </bndbox>
+    </object>
+</annotation>

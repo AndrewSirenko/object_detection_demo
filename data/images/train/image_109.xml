@@ -1,0 +1,29 @@
+<annotation>
+    <folder>batch2</folder>
+    <filename>image_109.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>C pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>73</ymin>
+            <xmax>103</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>126</xmin>
+            <ymin>94</ymin>
+            <xmax>173</xmax>
+            <ymax>166</ymax>
+        </bndbox>
+    </object>
+</annotation>

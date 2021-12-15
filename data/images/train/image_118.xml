@@ -1,0 +1,39 @@
+<annotation>
+    <folder>batch2</folder>
+    <filename>image_118.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>i pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>7</xmin>
+            <ymin>235</ymin>
+            <xmax>75</xmax>
+            <ymax>248</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>166</ymin>
+            <xmax>93</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>C pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48</xmin>
+            <ymin>48</ymin>
+            <xmax>129</xmax>
+            <ymax>145</ymax>
+        </bndbox>
+    </object>
+</annotation>

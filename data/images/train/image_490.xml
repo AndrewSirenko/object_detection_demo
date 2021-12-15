@@ -1,0 +1,29 @@
+<annotation>
+    <folder>batch5</folder>
+    <filename>image_420.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>i pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>73</xmin>
+            <ymin>61</ymin>
+            <xmax>140</xmax>
+            <ymax>108</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>129</ymin>
+            <xmax>116</xmax>
+            <ymax>199</ymax>
+        </bndbox>
+    </object>
+</annotation>

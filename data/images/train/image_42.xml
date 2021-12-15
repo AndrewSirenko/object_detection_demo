@@ -1,0 +1,19 @@
+<annotation>
+    <folder>batch1</folder>
+    <filename>image_42.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>U pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>42</xmin>
+            <ymin>62</ymin>
+            <xmax>174</xmax>
+            <ymax>218</ymax>
+        </bndbox>
+    </object>
+</annotation>

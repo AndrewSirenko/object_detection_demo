@@ -1,0 +1,29 @@
+<annotation>
+    <folder>batch4</folder>
+    <filename>image_375.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Seat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>60</xmin>
+            <ymin>180</ymin>
+            <xmax>176</xmax>
+            <ymax>300</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>L pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>100</ymin>
+            <xmax>171</xmax>
+            <ymax>136</ymax>
+        </bndbox>
+    </object>
+</annotation>

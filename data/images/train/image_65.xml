@@ -1,0 +1,19 @@
+<annotation>
+    <folder>batch1</folder>
+    <filename>image_65.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>49</xmin>
+            <ymin>117</ymin>
+            <xmax>117</xmax>
+            <ymax>212</ymax>
+        </bndbox>
+    </object>
+</annotation>

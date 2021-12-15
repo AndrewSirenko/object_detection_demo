@@ -1,0 +1,39 @@
+<annotation>
+    <folder>batch5</folder>
+    <filename>image_407.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Seat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>51</xmin>
+            <ymin>149</ymin>
+            <xmax>140</xmax>
+            <ymax>244</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>i pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>151</xmin>
+            <ymin>60</ymin>
+            <xmax>161</xmax>
+            <ymax>124</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>L pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>44</xmin>
+            <ymin>55</ymin>
+            <xmax>115</xmax>
+            <ymax>86</ymax>
+        </bndbox>
+    </object>
+</annotation>

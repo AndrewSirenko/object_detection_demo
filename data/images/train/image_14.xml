@@ -1,0 +1,39 @@
+<annotation>
+    <folder>batch1</folder>
+    <filename>image_14.png</filename>
+    <size>
+        <width>180</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>U pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>170</ymin>
+            <xmax>180</xmax>
+            <ymax>303</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>L pipe</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>137</ymin>
+            <xmax>122</xmax>
+            <ymax>179</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Back</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>62</ymin>
+            <xmax>141</xmax>
+            <ymax>114</ymax>
+        </bndbox>
+    </object>
+</annotation>
